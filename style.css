@@ -1,0 +1,31 @@
+body {
+      font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+      font-size: 23px;
+      width: 100%;
+      margin: 0px;
+      box-shadow: 5px 5px 5px #808080;
+}
+
+.note {
+      font-size: 15px;
+      color: #000000;
+}
+
+.copy_right_footer {
+      position: fixed;
+      color: #FFFFFF;
+      bottom: 0;
+      width: 100%;
+      background-color: #808080;
+      line-height: 3;
+      text-align: center;
+}
+
+canvas {
+      border: 5px solid #FFFFFF;
+      border-radius: 20px;
+      box-shadow: 5px 5px 5px #808080;
+}
